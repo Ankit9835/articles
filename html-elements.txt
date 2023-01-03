@@ -1,0 +1,46 @@
+HTML stands for Hyper text markup language which is used to create websites. We can say HTML is the foundation of any websites.
+
+Using Only HTML we can create website excluding design parts and functionality.
+
+For making the foundation of a website we can use various types of HTML elements for any users, some of these are - 
+
+1) Heading Tag 
+
+       <h1></h1>
+
+       Heading Tag is mainly used for writing any word,sentence with a different font sizes with bold styles also.
+       Heading tag comes with <h1> to <h6> font size depends on the heading tag we are using.
+
+2) Paragraph
+
+        <p></p>
+
+        This tag in HTML defines a paragraph. When we look at the webpage, 
+        we see that there are few spaces added before and after a paragraph.
+        HTML does this by default.By default the <p> tag is set to block we can change its styles using CSS.
+        display property added next paragraph to the next line.
+
+3) Image
+
+      <img src='' alt='' width='' height='' decoding='' fetchpriority='' loading=''>
+
+      With the help of <img> tag and with the above attributes we can show the image on the browser.
+
+      'src' attributes takes a correct path of file if path matched then it showed the image on to the browser.
+
+    'alt' if in src attributes file path is incorrect then whatever we write into the alt    attribute it shows it to us.
+
+    'width' it sets the width of an image using pixels.
+
+    'height' it sets the height of an image using pixels.
+
+    'decoding' provides an image decoding hint to the browser. 
+    some of the values are . sync - decode the image synchronously,
+     for atomic presentation with other content. . async - decode the image asynchronously, 
+     to reduce delay in presenting other content.
+
+ 'fetchpriority' provides a hint of the relative priority to use when fetching the image,it will be high,low,auto
+
+ 'loading' it indicates how the browser should load the image,it will be of two types eager,lazy.
+  in eager images load immediately it does not care that the image is within the visible port 
+  or not and in lazy loading load the image until it reaches to the viewport. 
