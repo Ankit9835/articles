@@ -1,0 +1,29 @@
+Web Server is an HTTP (Hyper text transfer protocol) Server,
+This HTTP server interact with the browser side with the help of HTTP protocol.
+HTTP server helps to read the domain of a website.
+
+If we talk about the mechanism or role of a HTTP server is like browser request the file,
+when request reaches to the HTTP server it accepts the request and send it back to the browser.
+The most important thing is that if the server doesn't find the correct request then it will return 404 (Not Found) response.
+
+We can host our files like HTML,CSS,Javascript etc on local server or on a dedicated server both have its own benefits.
+
+While developing websites i usually worked on a localhost and after finshing my project i will push my code into a dedicated server.
+
+As we discussing about HTTP server so we can't forget to talk about Apache server.
+
+If we talk about Apache server then it is the open source web server that send web content through the internet.
+It is the most popular HTTP client on the web.
+
+Apache is is needed in a web application to deliver web content.
+One of the most common web application stacks involves LAMP, Apache, MySQL, and PHP.
+
+Apache is so much popular because of its open source software,it is freely available for viewing and collobration.
+
+Some of the most popular modules that can be added are SSL, Server Side Programming Support (PHP).
+
+PHP is a server side programming language which runs on a Apache server
+all the dynamic or static content can be handeled by the PHP language is accessable by the Apache server.
+
+Apache HTTP web servers are used by over 67% of all web servers in the world.
+Apache web servers are easy to customize environments, they’re fast, reliable, and highly secure.
